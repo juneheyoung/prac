@@ -16,6 +16,8 @@ git commit -m
 2. 프로젝트에 추가하고자 하는 것
 -> `git commit`
 3. 프로젝트에 추가된 것
+
+
 <bar><bar>
 
 
@@ -32,3 +34,11 @@ git log 갇힐떄
 q
 ### 새로운 주제
 
+
+
+
+shift insert = = ctrl v
+git clone : 깃 복제해서 가져옴
+
+
+git init 명령어를 실행하면, 현재 디렉토리를 기준으로 Git 저장소가 생성됩니다.
