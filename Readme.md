@@ -42,3 +42,14 @@ git clone : 깃 복제해서 가져옴
 
 
 git init 명령어를 실행하면, 현재 디렉토리를 기준으로 Git 저장소가 생성됩니다.
+
+git              분산 버전 관리 프로그램(전체 소스코드 다 가짐 사용자들이)
+
+
+git hub	   저장소 서비스( 저장공간?)  
+
+
+git lab
+
+visual studio code : ctrl shift p / terminal : create ....  + git bash 로 바꾸기
+
