@@ -20,8 +20,15 @@ git commit -m
 
 
 
-1. 파일 또는 변경 생성 `git add` `git commit`
+1. 파일 또는 변경 생성 `git add` /`git commit -m "0000"` 
+git status
+
+git commit 갇힐때
+esc
+:q!
 
 
+git log 갇힐떄
+q
 ### 새로운 주제
 
